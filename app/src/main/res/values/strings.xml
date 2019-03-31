@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KaraokeCreator</string>
+    <string name="record_button">Record</string>
 </resources>
