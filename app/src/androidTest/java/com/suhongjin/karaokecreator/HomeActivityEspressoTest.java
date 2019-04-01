@@ -17,6 +17,8 @@ import androidx.test.ext.junit.runners.AndroidJUnit4;
 import androidx.test.platform.app.InstrumentationRegistry;
 import androidx.test.rule.ActivityTestRule;
 
+import com.suhongjin.karaokecreator.homeactivity.HomeActivity;
+
 /**
  * Instrumented test, which will execute on an Android device.
  */
