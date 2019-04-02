@@ -6,10 +6,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-
 import com.suhongjin.karaokecreator.R;
 import com.suhongjin.karaokecreator.SessionState;
-
 import java.util.Observer;
 
 /** When a user is not in the middle of a recording session. */

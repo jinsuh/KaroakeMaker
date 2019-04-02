@@ -1,5 +1,10 @@
 <resources>
+    <!-- HomeActivity -->
     <string name="app_name">KaraokeCreator</string>
     <string name="record_button">Record</string>
     <string name="stop_recording_button">Stop</string>
+
+    <!-- NoPermissionsActivity -->
+    <string name="rationale">Recording audio is a key functionality of this app and is required.</string>
+    <string name="settings_button">Grant access</string>
 </resources>
